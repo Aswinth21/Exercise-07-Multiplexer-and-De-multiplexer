@@ -61,11 +61,11 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 
 
 ### PROGRAM 
-/*
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: yuva krishna k
-RegisterNumber:  212222110056
-*/
+Developed by: Aswinth T
+RegisterNumber:  212222230015
+```
 ## MULTIPLEXER:
 ```
 module multiplexer(I0,I1,I2,I3,S0,S1,Y);
